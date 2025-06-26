@@ -1,16 +1,40 @@
-## Hi there 👋
+Site de Jogos - Projeto de Programação Web II  | Alunas: Emilly Kauane da Silva Machado e Letícia Vasconcelos Sousa
+Descrição do Projeto
+Este projeto consiste em um site interativo de jogos desenvolvido como parte da disciplina Programação Web II. A proposta é permitir que os usuários possam:
 
-<!--
-**sousalevasconcelos2003/sousalevasconcelos2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Criar uma conta no sistema
+ Fazer login com segurança
+ Personalizar o perfil, incluindo alteração de foto
+ Criar seus próprios jogos e armazená-los no sistema
+ Visualizar e compartilhar seus jogos com outras pessoas
 
-Here are some ideas to get you started:
+O sistema busca ser simples, intuitivo e com design responsivo, visando uma boa experiência do usuário.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tecnologias Utilizadas
+Frontend:
+
+.HTML5
+
+.CSS3 (com todos os estilos centralizados no arquivo estilo.css)
+
+.JavaScript (scripts organizados no arquivo script.js)
+
+Backend:
+
+.Node.js
+
+.Express.js (framework para o servidor)
+
+.MongoDB (banco de dados NoSQL para armazenar usuários e jogos)
+
+.Mongoose (biblioteca de modelagem de dados para MongoDB)
+
+Outros Recursos:
+
+.Estrutura modular de pastas (separação clara entre frontend e backend)
+
+.Validações básicas no frontend e backend
+
+.Layout responsivo e moderno
+
+
